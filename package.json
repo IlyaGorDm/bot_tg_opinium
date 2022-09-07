@@ -1,0 +1,20 @@
+{
+  "name": "opiumseed_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Gor_Il",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.57.1"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.19",
+    "npm-git-install": "^0.3.0"
+  }
+}
